@@ -1,5 +1,7 @@
 # Thread
 
+(Even though Thread is not a "design pattern", any developer must know it)
+
 Software application needs a "parallel processing" (or "asynchronous behavior"), in order to perform certain task faster as these tasks can be divided into subtasks and these subtasks can be executed in parallel.
 
 Implementations steps:
