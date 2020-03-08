@@ -1,4 +1,4 @@
-#Singleton
+# Singleton
 
 Software application needs a class that allows the creation of just one object from itself (i.e., restricts the instantiation of a class to one "single" instance).
 
